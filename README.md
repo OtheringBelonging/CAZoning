@@ -40,7 +40,7 @@ Exclusionary, single-family zoning has long been cited as a driver for racial se
 ## Methodology
 
 ### Data procurement: 
-Zoning shapefiles for each municipality and unincorporated areas in the state were gathered from multiple sources, including the zoning dataset from CA Office of PLanning and Research (OPR), regional data portals, city planning/GIS or relevant departments, and [ESRI’s ArcGIS Hub](https://hub.arcgis.com/search?collection=Dataset) in the listed order to ensure we have the most updated shapefiles to conduct our analysis.
+Zoning shapefiles for each municipality and unincorporated areas in the state were gathered from multiple sources, including the zoning dataset from CA Office of Planning and Research (OPR), regional data portals, city planning/GIS or relevant departments, and [ESRI’s ArcGIS Hub](https://hub.arcgis.com/search?collection=Dataset) in the listed order to ensure we have the most updated shapefiles to conduct our analysis.
 
 
 ### Zone categorization:
@@ -48,10 +48,10 @@ We prioritized and focused on the intent and the purpose of the zone to sort the
 
 When the intent and purpose of the zone was unclear, we classified the zone based on what is permitted in the zone. For example, consider a “general residential” zone that does not specify whether it is strictly for single-family homes in its intent. If it permits single-family homes but only conditionally permits multi-family homes, it would be classified in the single-family category. And if it permits both single-family homes and multi-family homes, it would be classified in the other residential category. Since we prioritized the zone’s stated intent and purpose in the city ordinance, we would only rely on the permitted use if the intent and purpose was unclear.
 
-For planned development and specific plan zones where the municipal ordinance does not detail the intent and purpose enough for us to classify the entire zone or zones that are missing in the municipal ordinance, we used the standardized land use class from SACOG to categorize the parcels in these zones into one of the three categories above.
+For planned development and specific plan zones where the municipal ordinance does not detail the intent and purpose enough for us to classify the entire zone or zones that are missing in the municipal ordinance, we used the standardized land use class for each jurisdiction, wherever applicable, to categorize the parcels in these zones into one of the three categories above.
 
 ## License and Attribution
-We are making this data publicly available for broad, noncommercial public use for researchers, policymakers, and the academic community. If you use this data, we request you attribute it to “The Othering &amp Belonging Institute” in your publication and use the citation provided below. If you use it in an online report, we request that you link to our our digital report, [Single-Family Zoning in California: A Statewide Analysis](https://belonging.berkeley.edu/single-family-zoning-california-statewide-analysis).  
+We are making this data publicly available for broad, noncommercial public use for researchers, policymakers, and the academic community. If you use this data, we request you attribute it to “The Othering and Belonging Institute” in your publication and use the citation provided below. If you use it in an online report, we request that you link to our our digital report, [Single-Family Zoning in California: A Statewide Analysis](https://belonging.berkeley.edu/single-family-zoning-california-statewide-analysis).  
 
 If you do use the data, we would love to hear about it! Send us an email at <belonging@berkeley.edu>
 
